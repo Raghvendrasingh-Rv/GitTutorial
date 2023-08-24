@@ -2,3 +2,4 @@ This is a sample text file, text is ok now.
 File updating
 ok now gooo.
 File changing in master branch
+Change is doing in newBranch
